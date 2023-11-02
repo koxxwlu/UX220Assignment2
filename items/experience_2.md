@@ -1,1 +1,12 @@
-Experience 2 here
+Experience 2: Making My First Ever Animated Short-film
+
+In my grade 12 English course, I decided to make an animated short-film as my final assignment. Initially I though it would be just a fun little project but no, no one in the class chose that topic should have deterred me but the warnings obviously wasn't enough for my mind to avoid the adventurous route. It was all working fine at first, but when the assignment was due in a week, I panicked. Multiple component of the project wasn't even planned, the assets weren't ready, textures and scenes were a huge mess with conflicting styles and lack of consistencies (on production quality as I don't have enough time). I asked if I can have extension from my teacher, while fortunately she agreed but an extra week was merely stretching the life line a bit further; too little, too late. In that two weeks time, I stayed up to late night for most days like a mad man just to squeeze out bit of progress every time.
+Finally I finished and handed it in two days early. In the reflection report, I listed all the work I did and admitted how I underestimated the difficulty and under-planned the workload distribution. In class after the night I submitted the assignment, the teacher asked if she can see my project file so I opened up my 3D software and briefly explained to her how I pulled the entire thing off. That day was the last lesson before summer holiday, so there were only me and another classmate in class. I walked with the teacher and I brought up my assignment asking for her feedback. She shocked me by saying I got a 100% because that was the most amount of effort she has seen anyone put into such as assignment and no penalties would be given for handing it in late, especially after understanding what's required to make an animated short-film like mine's through my reflection report. I was over the moon and thanked her for the appreciation.
+
+TL;DR
+1. What: I made an animated short-film for my English final assignment in high school which turned out to be much harder than I expected.
+2. When: During my late years of high school, around 2 years ago. 
+3. Good: Pushed what am I capable of and stepped outside of my comfort zone by choosing the harder assignment option.
+4. Favourite Memory: The moment when I exported the video file from the editing software and knowing all my hard works paid off. 
+5. Didn't Enjoy: Had to stay up for multiple nights just to finish the assignment, felt exhausted that week.
+6. Grade: B, mostly enjoyable, could have planned ahead better but still grateful for the result.
