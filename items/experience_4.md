@@ -1,4 +1,4 @@
-Experience 4: Trip to England
+## Experience 4: Trip to England
 
 After my graduating from high school, I decided to go to England and visit a few of my friends. It was a fun trip overall without many things unexpected. Days before me concluding my trip, I realised another few of my friends also just arrived so we planned to meet by riding train to a town nearby and stayed over for a night, before parting and coming back to Canada. This was actually my first time travelling abroad alone and I was grateful that nothing bad happened during the entire trip.
 
