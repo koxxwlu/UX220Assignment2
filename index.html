@@ -7,7 +7,43 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner&display=swap"
+            rel="stylesheet">
+        <style>
+            p {
+                font-family: 'Edu TAS Beginner', regular;
+            }
+
+            h1 {
+                font-family: 'Agbalumo', regular;
+                color: #6D1912;
+                background-color: #C2895B;
+            }
+            h2 {
+                font-family: 'Agbalumo', regular;
+                color: #6D1912;
+            }
+
+            nav {
+                color: #CC006A;
+                background-color: #3C7869;
+            }
+            footer {
+                color: #E3DAFF;
+                background-color: #220E5B;
+            }
+            button {
+                color: #ffdede;
+                background-color: #5B0E0E;
+                padding: 5px;
+            }
+            main {
+                padding: 30px;
+            }
+        </style>
+        <nav>
             <a class="navbar-brand" href="#">Your Name Here</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04"
                 aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,34 +62,6 @@
             </div>
         </nav>
         <h1>Assignment 2</h1>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner&display=swap"
-            rel="stylesheet">
-        <style>
-            body {
-                font-family: 'Edu TAS Beginner', regular;
-            }
-
-            h1 {
-                font-family: 'Agbalumo', regular;
-                color: #6D1912;
-                background-color: #C2895B;
-            }
-
-            footer {
-                color: #DFF6F4;
-                background-color: #184541;
-            }
-            navbar-toggler {
-                color: #e9c46a;
-                background-color: #184541;
-            }
-            main {
-                padding: 30px;
-            }
-        </style>
-        </style>
     </header>
     <main>
         <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html><br><br>
@@ -61,8 +69,8 @@
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html><br><br>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html><br><br>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html><br><br>
-        <x-markdown2html src="contact.md" id="contact"></x-markdown2html>
-        <x-markdown2html src="about.md" id="about"></x-markdown2html>
+        <button><x-markdown2html src="contact.md" id="contact"></x-markdown2html></button><br>
+        <button><x-markdown2html src="about.md" id="about"></x-markdown2html></button>
     </main>
     <footer>
         <p>By Jayden K.</p>
