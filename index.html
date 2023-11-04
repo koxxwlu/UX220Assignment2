@@ -12,7 +12,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner&display=swap"
             rel="stylesheet">
         <style>
-            p {
+            p,a.myName,li {
                 font-family: 'Edu TAS Beginner', regular;
             }
 
@@ -21,10 +21,7 @@
                 color: #6D1912;
                 background-color: #C2895B;
             }
-            a.myName {
-            color: #6D1912;
-                font-family: 'Edu TAS Beginner', regular;
-            }
+
             h2 {
                 font-family: 'Agbalumo', regular;
                 color: #2D381A;
@@ -33,16 +30,19 @@
             nav {
                 background-color: #D0FAD9;
             }
+
             footer {
                 color: #E3DAFF;
                 background-color: #220E5B;
                 padding: 20px;
             }
+
             button {
                 color: #ffdede;
                 background-color: #5B0E0E;
                 padding: 5px;
             }
+
             main {
                 padding: 30px;
             }
@@ -73,7 +73,7 @@
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html><br><br>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html><br><br>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html><br><br>
-        <button><x-markdown2html src="contact.md" id="contact"></x-markdown2html></button><br>
+        <button><x-markdown2html src="contact.md" id="contact"></x-markdown2html></button><br><br>
         <button><x-markdown2html src="about.md" id="about"></x-markdown2html></button>
     </main>
     <footer>
